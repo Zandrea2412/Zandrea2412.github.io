@@ -1,17 +1,17 @@
 const songs = [
     {
         title: "Song 1",
-        mp3: "https://drive.google.com/uc?export=download&id=1uJQx_H8NMaadl2Usjo-D5NvgMKJfoI2G",
+        mp3: "../ost/PTheme.mp3",
         image: "../a1.png"
     },
     {
         title: "Song 2",
-        mp3: "https://drive.google.com/uc?export=download&id=1uJQx_H8NMaadl2Usjo-D5NvgMKJfoI2G",
+        mp3: "../ost/PTheme.mp3",
         image: "../a2.png"
     },
     {
         title: "Song 3",
-        mp3: "https://drive.google.com/uc?export=download&id=1uJQx_H8NMaadl2Usjo-D5NvgMKJfoI2G",
+        mp3: "../ost/PTheme.mp3",
         image: "../a3.jpg"
     }
     // Aggiungi altre canzoni come preferisci
